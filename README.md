@@ -1,0 +1,2 @@
+# Python
+Ilk notlar
